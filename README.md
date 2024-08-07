@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/AMR856/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0169-majority-element](https://github.com/AMR856/LeetCode-Problems/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AMR856/LeetCode-Problems/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/AMR856/LeetCode-Problems/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/AMR856/LeetCode-Problems/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
