@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AMR856/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AMR856/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/AMR856/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [2427-first-letter-to-appear-twice](https://github.com/AMR856/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AMR856/LeetCode-Problems/tree/master/0169-majority-element) |
+| [2427-first-letter-to-appear-twice](https://github.com/AMR856/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,4 +73,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/AMR856/LeetCode-Problems/tree/master/0125-valid-palindrome) |
+| [2427-first-letter-to-appear-twice](https://github.com/AMR856/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/AMR856/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
