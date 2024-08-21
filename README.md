@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AMR856/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AMR856/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/AMR856/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0908-middle-of-the-linked-list](https://github.com/AMR856/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AMR856/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/AMR856/LeetCode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-first-letter-to-appear-twice](https://github.com/AMR856/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/AMR856/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
