@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AMR856/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AMR856/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/AMR856/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0792-binary-search](https://github.com/AMR856/LeetCode-Problems/tree/master/0792-binary-search) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AMR856/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/AMR856/LeetCode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AMR856/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/AMR856/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0792-binary-search](https://github.com/AMR856/LeetCode-Problems/tree/master/0792-binary-search) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AMR856/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
