@@ -95,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/AMR856/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/AMR856/LeetCode-Problems/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
